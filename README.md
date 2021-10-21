@@ -20,6 +20,8 @@ https://digilent.com/reference/_media/basys3:basys3_rm.pdf
 
 ### Results: 
 
+**D_IN = 0000 → D_IN = 1111 in binary**
 ![0](https://user-images.githubusercontent.com/89553126/138179532-c3e6f2e4-6f4c-451f-b47f-fa39fce5667c.png)
 
+**D_IN = 0000 → D_IN = 1111 in hex number**
 ![1](https://user-images.githubusercontent.com/89553126/138179536-9018eec0-4211-4925-9c21-a2869f8cbf2e.png)
