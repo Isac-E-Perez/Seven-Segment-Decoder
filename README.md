@@ -14,6 +14,10 @@ Basys 3 Artix-7 FPGA
  
 ### Note:
 
+The code is made for the Nexys 4 Artix-7 FPGA Board. I do not have access or own the board so my code is based on the manual specifications found here,
+
+https://digilent.com/reference/_media/basys3:basys3_rm.pdf
+
 ### Results: 
 
 ![0](https://user-images.githubusercontent.com/89553126/138179532-c3e6f2e4-6f4c-451f-b47f-fa39fce5667c.png)
