@@ -50,4 +50,4 @@ Finally, I verified the units outputted by using a waveform viewer.
 
 ![1](https://user-images.githubusercontent.com/89553126/138179536-9018eec0-4211-4925-9c21-a2869f8cbf2e.png)
 
-Looking back to the the relationship between the input and output and the black box, the code produce what should be expected, therefore, I know my seven segment decoder code is operating correctly.
+Looking back to the relationship between the input and output and the black box, the code produce what should be expected, therefore, I know my seven segment decoder code is operating correctly.
