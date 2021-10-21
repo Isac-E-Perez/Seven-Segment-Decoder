@@ -14,7 +14,7 @@ For this project, I created a seven segment decoder with the use of VHDL code. T
  
 ### Note:
 
-The code is made for the Nexys 4 Artix-7 FPGA Board. I do not have access or own the board so my code is based on the manual specifications found here,
+The code is made for the Basys 3 Artix-7 FPGA Board. I do not have access or own the board so my code is based on the manual specifications found here,
 
 https://digilent.com/reference/_media/basys3:basys3_rm.pdf
 
