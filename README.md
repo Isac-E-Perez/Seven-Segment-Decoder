@@ -2,7 +2,7 @@
 
 ### About:
 
-Basys 3 Artix-7 FPGA 
+For this project, I created a seven segment decoder with the use of VHDL code. The decoder has an output of *SZ_OUT*. A digital decoder is a device which converts one digital format into another. The Binary Coded Decimal (BCD) to 7 Segment Decoder converts 4 bit binary to 7 bit control signal. The circuit contains an input bundle of four signals and an output bundle of seven signals. The BCD to 7 segment decoder converts 4 bit binary to 7 bit control signal which can be displayed on 7 segment display. Seven display consist of 7 LED segments to display 0 to 9 and A to F. The relationship between the input and output is shown in the table below. 
 
 **The relationship between the input and output**
 
