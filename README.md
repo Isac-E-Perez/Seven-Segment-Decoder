@@ -32,7 +32,7 @@ In VHDL, *D_IN* is an input (**IN**), and *SZ_OUT* is an output (**OUT**) of my 
 
 The selected signal assignment statement is evaluated each time there is a change in the chooser expression listed in the first line of the selected signal assignment statement. Re-evaluation also occurs every time there is a change in a conditional signal on the right-hand side of the signal assignment operator.
 
-Afterwards, I worked on the behavioral (functional) simulation. Here, I will only verify the operation of the circuit. Stimuli is provided to the circuit, so I can verify the outputs behave as I expect. The VHDL file called 'seven_tb' is where I specified the stimuli to the circuit.
+Afterwards, I worked on the behavioral (functional) simulation. Here, I will only verify the operations of the circuit. Stimuli is provided to the circuit, so I can verify the outputs behave as I expect. The VHDL file called 'seven_tb' is where I specified the stimuli to the circuit.
 
 <img width="593" alt="Screen Shot 2021-10-20 at 9 32 17 PM" src="https://user-images.githubusercontent.com/89553126/138201206-c8f4c792-48aa-42cb-90db-ce6bfe76be28.png">
 
