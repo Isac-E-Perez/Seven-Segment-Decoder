@@ -26,7 +26,7 @@ In VHDL, *D_IN* is an input (**IN**), and *SZ_OUT* is an output (**OUT**) of my 
 
 <img width="340" alt="Screen Shot 2021-10-20 at 9 28 54 PM" src="https://user-images.githubusercontent.com/89553126/138200815-d9c8c528-1a95-4a76-8d29-45f86943a452.png">
 
-**Internal description of the eight segment decoder is specified here**
+**Internal description of the seven segment decoder is specified here**
 
 <img width="344" alt="Screen Shot 2021-10-20 at 9 29 58 PM" src="https://user-images.githubusercontent.com/89553126/138200958-2a5ae9c5-bced-49d5-ad27-5190169bcc9a.png">
 
